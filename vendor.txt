@@ -1,2 +1,0 @@
-Hello vendor
-Hello world
